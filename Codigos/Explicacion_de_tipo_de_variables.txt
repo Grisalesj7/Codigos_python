@@ -1,0 +1,22 @@
+Tenemos el tipo de variable numerico, el cual se basa en el int en este caso seria un numero entero
+y tenemos el float, que este se usa mas que todo cuando se trata de decimales
+
+Tenemos la variable que seria input, que esta se utiliza mucho en los whiles que aun no se ha explicado esto, pero mas adelantye se dara una explicacion sobre esto
+
+el print como bien lo conocemos, este lo que haria seria imprimir, el valor de una variable, te pongo un ejemplo
+
+numero=input("Digite un numero")
+
+print(numero)
+
+Que haria esto ejecutaria de forma inmediata, el valor que le asignamos a la variable a la hora de ejecutar la operacion, osea el input.
+
+Ahora bien pasemos a otro plano que en este caso serian los booleanos
+
+Pero primero explicare lo que es el while, el while es una funcion que te permite llevar ciclos es decir, puedes realizar varias opciones que son elegibles y cada una de esta arrojarte varios resultados
+
+Un while lo podriamos crear ya sea con una variable o ponerle un true
+
+Te pondre dos ejemplos: while:true, a partir de este momento puedes empezar a desarrollar tus operaciones dentro del while, cabe recalcar que podrias ponerle
+un break, que haria el break, este comando cerraria automaticamente el ciclo y ya tendrias que volver a inicializar la aplicacion para poder acceder al while
+
