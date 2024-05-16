@@ -1,0 +1,66 @@
+El modulo pickle implementa protocolos binarios para serializar
+y deserializar una estructura de objetos de python.
+
+Es el proceso mediante el cual una jerarquia de objetos de python se convierte
+en una secuencia de bytes, es la operacion inversa, mediante la cual una
+Secuencia de bytes de un archivo binario o un objeto binario, es convertido nuevamente
+en una jerarquia de objetos
+
+
+<------------------------------------------------------------------------------------>
+
+
+
+¿Que es la serializacion de objetos?
+
+El proceso de serializar consiste en modificar el JSON. Esto significa
+que vamos a transformar los datos que contienen el formato JSON en bytes
+que pueden ser transferidos o enviados a traves de un servicio.
+
+
+<------------------------------------------------------------------------------------>
+
+
+En python podemos encontrar lo que es modulos matematicos como tambien 
+Operadores matematicos
+
+
+
+<------------------------------------------------------------------------------------>
+
+¿Que son las expresiones regulares?
+
+Las expresiones regulares son una secuencia de caracteres que van a formar
+un patron. Este patron normalmente se utiliza para realizar busquedas. Ademas
+de esto, las expresiones regulares se utilizan para trabajar con el manejo de cadenas.
+
+<------------------------------------------------------------------------------------>
+
+
+
+
+<------------------------------------------------------------------------------------>
+
+
+¿Que es el import re?
+
+(Re), es una expresion regular especifica un conjunto de cadenas que coinciden con ella
+Las funciones de este modulo permiten comprobar si una determinada
+cadena coincide con una expresion regular dada (o si una expresion regular
+dada coincide con una determinada cadena.
+
+<------------------------------------------------------------------------------------>
+
+
+
+¿Para que sirve el comando isdigit?
+
+El isdigit literalmente la funcion que tiene es que devuelve un valor verdader (True)
+si s es vacia, o si todos sus caracteres son imprimibles, incluido
+el espacio en blanco, pero no el salto de linea.
+
+
+<------------------------------------------------------------------------------------->
+
+
+
